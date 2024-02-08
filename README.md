@@ -16,9 +16,6 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
       <a href="#how-to-install">How to Install</a>
     </li>
     <li><a href="#api-reference">Api Reference</a></li>
