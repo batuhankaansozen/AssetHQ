@@ -20,7 +20,6 @@
     </li>
     <li><a href="#api-reference">Api Reference</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
-    <li><a href="#technologies-used">Technologies Used</a></li>
   </ol>
 </details>
 
